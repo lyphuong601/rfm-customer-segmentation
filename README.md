@@ -1,6 +1,6 @@
 # RFM Customer Segmentation & KMeans Clustering
 
-<p align="center"><img src="img/rfm-pic.png" height="250" width="5s00"></p>
+<p align="center"><img src="img/rfm-pic.png" height="250" width="500"></p>
 
 ## 📌 Introduction
 - Motivation: Use data available, segment customers into different groups
