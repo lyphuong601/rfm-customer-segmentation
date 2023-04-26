@@ -12,14 +12,14 @@
 
 <ul>
   <li>RFM value</li>
-  <li>KMeans</li>
+  <li>KMeans clustering</li>
   <li>3D graph</li>
 </ul>
 
 ## Contents
 
 <h3>1. Calculate RFM value</h3>
-<h3>2. Customer segmentation</h3>
+<h3>2. Customer segmentation with KMeans clustering</h3>
 
 ## Conclusion
 
